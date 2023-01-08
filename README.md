@@ -47,7 +47,7 @@ alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-
 
 ### Contatos:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafael.euclides.martins@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.euclides.martins@gmail.com)
 
 ### Social Media:
 
