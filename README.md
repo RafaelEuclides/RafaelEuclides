@@ -55,3 +55,5 @@ alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu_rafa__/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-euclides-martins-da-silva-b753261a5/)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20946458/rafael-euclides)
+
+![Snake Animation](https://github.com/RafaelEuclides)
