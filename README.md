@@ -23,6 +23,8 @@ alt="CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csha
 <img align="center" height="40" width="50"
 alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 <img align="center" height="40" width="50"
+alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="center" height="40" width="50"
 alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
 
