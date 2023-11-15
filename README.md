@@ -41,10 +41,6 @@ alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-ori
 alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
 <img align="center" height="40" width="50"
 alt="Cpp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-<img align="center" height="40" width="50"
-alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
-<img align="center" height="40" width="50"
-alt="UnrealEngine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg"  />
 </div>
 <br>
 <hr>
