@@ -44,7 +44,7 @@ alt="Cpp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplu
 <img align="center" height="40" width="50"
 alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
 <img align="center" height="40" width="50"
-alt="UnrealEngine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+alt="UnrealEngine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg"  />
 </div>
 <br>
 <hr>
