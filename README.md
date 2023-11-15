@@ -21,6 +21,8 @@ alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/
 <img align="center" height="40" width="50" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="center" height="40"  width="50"
 alt="CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+<img align="center" height="40"  width="50"
+alt="DotNet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="center" height="40" width="50"
 alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 <img align="center" height="40" width="50"
